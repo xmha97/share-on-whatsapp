@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Share on WhatsApp",
-  "version": "1.6",
+  "version": "1.7",
   "description": "Easily share web pages and links on WhatsApp.",
   "author": "Muhammad Hussein Ammari",
   "options_ui": {"page": "options.html", "browser_style": true, "open_in_tab": false},
