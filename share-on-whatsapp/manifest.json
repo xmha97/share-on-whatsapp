@@ -5,7 +5,7 @@
   "description": "Easily share web pages and links on WhatsApp.",
   "author": "Muhammad Hussein Ammari",
   "options_ui": {"page": "options.html", "browser_style": true, "open_in_tab": false},
-  "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/share-on-whatsapp/",
+  "homepage_url": "https://github.com/xmha97/share-on-whatsapp/",
   "icons": {
     "16": "icon/icon1-16.png",
     "32": "icon/icon1-32.png",
