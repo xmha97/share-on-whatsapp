@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Share on WhatsApp",
+  "version": "1.6",
+  "description": "Easily share web pages and links on WhatsApp.",
+  "author": "Muhammad Hussein Ammari",
+  "options_ui": {"page": "options.html", "browser_style": true, "open_in_tab": false},
+  "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/share-on-whatsapp/",
+  "icons": {
+    "16": "icon/icon1-16.png",
+    "32": "icon/icon1-32.png",
+    "48": "icon/icon1-48.png",
+    "96": "icon/icon1-96.png",
+    "128": "icon/icon1-128.png",
+    "256": "icon/icon1-256.png"
+  },
+  "permissions": ["contextMenus", "activeTab"],
+  "background": {"scripts": [ "js/background.js" ]},
+  "browser_action": {
+    "default_title": "Share on WhatsApp",
+    "browser_style": true,
+    "default_icon": {
+      "16": "icon/icon2-16.png",
+      "32": "icon/icon2-32.png",
+      "48": "icon/icon2-48.png",
+      "96": "icon/icon2-96.png",
+      "128": "icon/icon2-128.png",
+      "256": "icon/icon2-256.png" 
+    }
+  }
+}
